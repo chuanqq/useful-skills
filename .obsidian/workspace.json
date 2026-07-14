@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "de7c36a6a1992216",
+    "id": "d870bcdf9ac32825",
     "type": "split",
     "children": [
       {
-        "id": "c43c735cee82f82f",
+        "id": "4659ac366450f7a1",
         "type": "tabs",
         "children": [
           {
-            "id": "f09994e924b7cf7e",
+            "id": "8edaf671f84346f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/prompts/2026-07-13-20-17-获取描述功能优化.md",
-                "mode": "preview",
+                "file": "prompts/5phase-template.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-13-20-17-获取描述功能优化"
+              "title": "5phase-template"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5a7b5fcb5eeac60a",
+    "id": "82b5d1959e5cffb1",
     "type": "split",
     "children": [
       {
-        "id": "d95b1ea340cacf67",
+        "id": "02d5c9d776592f16",
         "type": "tabs",
         "children": [
           {
-            "id": "524e81e703b1a63e",
+            "id": "db19c3ca55f15754",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "fa22ddae9aef7250",
+            "id": "67b543ec0fd30839",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "aa66512f270dbcf8",
+            "id": "36a31e166b2a020a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5
+    "width": 300
   },
   "right": {
-    "id": "d7eff20fda1cd370",
+    "id": "7867cfa99ee05f10",
     "type": "split",
     "children": [
       {
-        "id": "ae6d0d765a40e5b6",
+        "id": "34a7734c1a392d4f",
         "type": "tabs",
         "children": [
           {
-            "id": "7fc2be600e0ddc9f",
+            "id": "1679899c4aee114d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/产品功能迭代/迭代统计/Next-Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,25 +103,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Next-Todo 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
-            "id": "5523d0331f98f2eb",
+            "id": "dcc85c59ac38ca4e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/产品功能迭代/迭代统计/Next-Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Next-Todo 的出链列表"
+              "title": "出链"
             }
           },
           {
-            "id": "157d5778861cebb4",
+            "id": "df92d403eb71bc38",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -137,7 +135,7 @@
             }
           },
           {
-            "id": "a2fa7e3e89555fba",
+            "id": "932005ea10403a13",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -151,77 +149,40 @@
             }
           },
           {
-            "id": "614e75cde241781f",
+            "id": "02ab773dfc12fcd2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/prompts/2026-07-13-20-17-获取描述功能优化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-13-20-17-获取描述功能优化 的大纲"
+              "title": "大纲"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "vscode-editor:新建代码文件": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "ace-code-editor:打开css片段管理器": false
+      "bases:新建数据库": false
     }
   },
-  "active": "f09994e924b7cf7e",
+  "active": "8edaf671f84346f8",
   "lastOpenFiles": [
-    "backend/README.md",
-    "docs/prompts/2026-07-13-20-17-获取描述功能优化.md",
-    "backend/data/favicon-cache/408d9770ce198fa79cb87b96b284391c19da8515",
-    "backend/data/favicon-cache/4a10079dd25eb1f6817f7d3b50d1e63a112c08b0",
-    "backend/data/favicon-cache/2fd4146fd43a0e86348a5c65fcfc8a529ba4fdfc",
-    "backend/data/favicon-cache/f66b7728eb1b832738b760225f7f6a13c08bf6c8",
-    "backend/data/favicon-cache/a6c84e873e6f71e771b8de4625b518b91443353d",
-    "backend/data/favicon-cache/15ce22be788ecd3b642cd074f8d0e8c32131b4a6",
-    "backend/data/favicon-cache/9686e8ee5ab8ea41d2eb45fe4a55616d053de4a8",
-    "backend/data/favicon-cache/ca1cc6b09168e1c441b48e413cd4b76bb7b9ee8e",
-    "backend/data/favicon-cache/079d656b71a066c64f1d036e456125a6e0294a3f",
-    "backend/data/favicon-cache/05f17ecc30b59eab335aba48e4bbc334fbd7f6e1",
-    "AGENTS.md",
-    "CLAUDE.md",
-    "docs/bugfix/agentic/05-根因分析-apply后分组站点未存储-pending态生命周期断裂.md",
-    "docs/bugfix/agentic/04-修复实现与验证-组件实例级patch放行.md",
-    "docs/bugfix/agentic/03-根因分析-create_group组件实例patch被PatchPolicy拒绝.md",
-    "docs/bugfix/agentic/02-修复实现与验证.md",
-    "docs/bugfix/agentic/01-根因分析-预览应用按钮二次触发卡死.md",
-    "docs/产品功能迭代/agent-stability/02-实现方案-reasoning回灌与错误恢复.md",
-    "docs/产品功能迭代/agent-stability/01-调研报告-reasoning_content报错与错误恢复机制.md",
-    "docs/产品功能迭代/config-agent-improvement/04-实施路线图与验收标准.md",
-    "docs/产品功能迭代/config-agent-improvement/README.md",
-    "docs/UI设计迭代/2026-06-24-侧边栏UI修复/02-任务规划与多agent执行.md",
-    "docs/UI设计迭代/2026-06-24-侧边栏UI修复/01-分析与解决方案.md",
-    "docs/产品功能迭代/config-agent-improvement/03-LLM自动分组与分组功能详细设计.md",
-    "docs/TODO&Prompts.md",
-    "docs/产品功能迭代/260623-UI主题升级/01-当前实现现状与缺口分析.md",
-    "docs/产品功能迭代/260623-UI主题升级/05-森林背景场景落地与路线图.md",
-    "docs/产品功能迭代/260623-UI主题升级/04-整体设计方案-资产编排器范式.md",
-    "docs/产品功能迭代/260623-UI主题升级/03-根因分析-为何AI生成的装饰图案极差.md",
-    "docs/产品功能迭代/260623-UI主题升级/02-外部参考调研-手机主题引擎与SVG生成.md",
-    "docs/产品功能迭代/260623-UI主题升级/README.md",
-    "repo-wiki/37-前端-Agent-Harness-面板.md",
-    "docs/产品功能迭代/style-assets-more-feature/README.md",
-    "docs/产品功能迭代/style-assets-more-feature/07-实时执行交接记录.md"
+    "prompts/5phase-template-lite.md",
+    "prompts/5phase-template.md"
   ]
 }
