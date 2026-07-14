@@ -1,0 +1,10 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true,
+  "autoConvertHtml": true,
+  "strictLineBreaks": true,
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible"
+}
